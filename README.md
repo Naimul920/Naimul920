@@ -24,9 +24,8 @@ I am a passionate Full-Stack Web Developer dedicated to building robust, scalabl
 ---
 
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [Your LinkedIn Profile Link]
-* 🌐 **Portfolio:** [Your Portfolio Website Link]
-* 📧 **Email:** [Your Email Address]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/md-naimul-islam-725a0121a/]
+* 📧 **Email:** [naimulislam920@gmail.com]
 
 ---
 
